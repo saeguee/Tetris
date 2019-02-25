@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="openjfx-11.0.1_osx-x64_bin-sdk">
+    <CLASSES>
+      <root url="file:///javafx-sdk-11.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///javafx-sdk-11.0.1/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file:///javafx-sdk-11.0.1/lib" />
+    </SOURCES>
+    <jarDirectory url="file:///javafx-sdk-11.0.1/lib" recursive="false" />
+    <jarDirectory url="file:///javafx-sdk-11.0.1/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
